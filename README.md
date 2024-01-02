@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jonathan Mutinda
-- 👀 I’m interested in android development
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on both java and react native- based android projects
-- 📫 How to reach me jonathanmutinda99@gmail.com
+- 👀 I’m interested in android and backend development 
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on both java, node js and react native- based android projects
+- 📫 Reach me jonathanmutinda99@gmail.com or +254740274151
 
 <!---
 tishmalo/tishmalo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
